@@ -20,4 +20,5 @@ Tambahkan link repository tugas Anda ke tabel di bawah ini.
 ```markdown
 | Nama Lengkap | NIM | Repository |
 | Apriliva Putri | 255410035 | https://github.com/jojoapilll1-ux/pertemuan-2.git |
+| Rizky Rynaldi  | 255410055 | https://github.com/Rizky419/Tugas_Pertemuan2_Backend_SC.git |
 ```
