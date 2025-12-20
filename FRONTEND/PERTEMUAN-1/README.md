@@ -20,3 +20,4 @@ Tambahkan link repository tugas Anda ke tabel di bawah ini.
 | Nama  | NIM       | Repository                                                         |
 | ----- | --------- | ------------------------------------------------------------------ |
 | Catur | 2354100XX | [frontend-pertemuan-1](https://github.com/tyodevid/first-html.git) |
+| Akili | 255410007 | [frontend-pertemuan-1](https://github.com/AkiliRafie/SC-IK-FE-Day1.git) |
